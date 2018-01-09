@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabTasks</string>
+    <string name="title_activity_lab_task_one">LabTaskOne</string>
+</resources>
